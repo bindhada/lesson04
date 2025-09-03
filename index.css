@@ -1,0 +1,133 @@
+.logo {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 48px;
+    letter-spacing: -0,02em;
+    color: #0a1832;
+    margin-top: 37px;
+    margin-left: 80px;
+}
+
+.logo-dot {
+    color: #4F56F1;
+}
+
+section {
+    display: inline-block;
+
+}
+
+.nav {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 48px;
+    margin-left: 511px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0,02em;
+    border-radius: 5px;
+}
+
+.nav>li {
+    margin-left: 48px;
+    
+}
+.nav>li>a {
+    text-decoration: none;
+    color: #1B0A42;
+    display: inline-block;
+}
+
+.main-title {
+    max-width: 495px;
+    width: 100%;
+    margin-top: 203px;
+    margin-left: 200px;
+    font-family: "Ramaraja", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 76px;
+    letter-spacing: 0,02em;
+    color: #180a42;
+    
+}
+
+.main-info {
+    max-width: 583px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 200px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0,02em;
+    color: #9a9a9a;
+}
+
+.main-btn {
+    width: 152px;
+    height: 64px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0,02em;
+    color: #ffffff;
+    background-color: #4F56F1;
+    border-radius: 6px;
+    border: none;
+    
+}
+
+.sign-btn {
+    width: 120px;
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 1412px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0,02em;
+    color: #ffffff;
+    background-color: #4F56F1;
+    border-radius: 6px;
+    border: none;
+    
+}
+
+.sign-in {
+    max-width: 51px;
+    width: 100%;
+    margin-top: 48px;
+    margin-left: 1321px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0,02em;
+    color: #1B0A42;
+}
+
+img {
+    max-width: 653px;
+    width: 100%;
+    margin-top: 186px;
+
+}
+
+section {
+    display: inline-block;
+}
